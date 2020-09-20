@@ -100,15 +100,15 @@ def main():
     args.func(args)
 if __name__ == "__main__":
     ## Commend line tool
-    # main()
+    main()
 
     ## If you want to use the script instead of the command line tool, comment line 103 and uncomment the lines from 106 tp 112
     ## Provide the inputPath and the outputPAth (optional)
-    class Args:
-        def __init__(self):
-            self.inputPath= "E:\OneDrive - California Institute of Technology\\0000-Temp covid 19\Samples"
-            self.outputPath=""
-
-    args = Args()
-    RunConv(args=args)
+    # class Args:
+    #     def __init__(self):
+    #         self.inputPath= "E:\OneDrive - California Institute of Technology\\0000-Temp covid 19\Samples"
+    #         self.outputPath=""
+    #
+    # args = Args()
+    # RunConv(args=args)
 
