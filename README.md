@@ -14,10 +14,10 @@ Extract RPCs from raster metada (tif,jpe,Ntif) to txt file
 
 
 
-## Commend line tool
+## How to use this code:
 1- Command line tool mode
 
-    #ython RPCGeoTag.RPCTxt.py -h   for help 
+    #python RPCGeoTag.RPCTxt.py -h   for help 
     
     -h, --help            show this help message and exit
     -inputPath INPUTPATH  Directory path containing raster files
