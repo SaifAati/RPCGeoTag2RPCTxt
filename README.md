@@ -1,5 +1,5 @@
 # RPCGeoTag2RPCTxt
-Extract RPCs from raster metada (tif,jpe,Ntif) to txt file 
+Extract RPCs from raster metada (tif,jp2,Ntif) to txt file 
 
 # Installation for RPCGeoTag2RPCTxt
 
@@ -10,7 +10,7 @@ Extract RPCs from raster metada (tif,jpe,Ntif) to txt file
 5. Activate the environment using `conda activate RPCGeoTag2RPCTxt`.
 6. Enter to RPCGeoTag2RPCTxt folder `cd RPCGeoTag2RPCTxt`.
 7. Install the repository in editable command: `pip install -e .`. 
-8. This will install all library files (the fancy apis), to run the command line calls, these scripts need to added path.
+
 
 
 
