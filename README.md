@@ -1,5 +1,8 @@
 # RPCGeoTag2RPCTxt
 Extract RPCs from raster metada (tif,jp2,Ntif) to txt file 
+[Saif Aati](mailto:saif@caltech.edu)
+    - saif@caltech.edu
+    - saifaati@gmail.com
 ## Dependencies
 - See [environment.yml file](/environment.yml) for complete list of Python packages with pinned version numbers.
 - [GDAL](https://anaconda.org/conda-forge/gdal)
