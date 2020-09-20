@@ -1,4 +1,4 @@
-# RPCGeoTag2RPCTxt
+## RPCGeoTag2RPCTxt
 Extract RPCs from raster metada (tif,jp2,Ntif) to txt file 
 
 [Saif Aati](mailto:saif@caltech.edu)
@@ -13,7 +13,7 @@ Extract RPCs from raster metada (tif,jp2,Ntif) to txt file
     
 
 
-# Installation for RPCGeoTag2RPCTxt
+## Installation for RPCGeoTag2RPCTxt
 
 1. Clone the `RPCGeoTag2RPCTxt` repo to the location of your choice using `https://github.com/SaifAati/RPCGeoTag2RPCTxt.git`
 2. We recommend using conda for managing packages. Powerusers can have a look at the `environment.yml` file in the github repository to make an environment using that.
@@ -27,7 +27,7 @@ Extract RPCs from raster metada (tif,jp2,Ntif) to txt file
 
 
 ## How to use this code:
-1- Command line tool mode
+1- Command line tool mode:
 
     #python RPCGeoTag.RPCTxt.py -h   for help 
     
