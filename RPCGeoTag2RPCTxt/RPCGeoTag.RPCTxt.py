@@ -18,7 +18,7 @@ def RFMtoTxt(raster, inputPath ,outputPath=None):
     dirName = os.path.dirname(__file__)
 
     try:
-        text_file = open(os.path.join(os.path.join(dirName, "RFM_lib"), "RFM.txt"), 'r')
+        text_file = open(os.path.join(os.path.join(dirName, "RFM_Lib"), "RFM.txt"), 'r')
         line_list = text_file.readlines()
         data = {}
 
